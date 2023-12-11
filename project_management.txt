@@ -1,0 +1,15 @@
+Before beginning to work on our project we had many discussions for requirement elicitation. 
+This was useful so that we could have starting point on what should be included in our first prototype.
+We used prototyping as our main process in order to develop this bot. 
+Our team would meet and rework our prototype in order to address our problem statement. 
+We often would think of criteria that our users would want/need. 
+This was useful so that we were all on the same page on how we should build our bot.
+In order to split the work evenly we used scrum and kanban. 
+We had a shared Google Keep note of all the tasks we needed to complete for the next milestone and would share over slack our progress after class weekly.
+Tools Used: Google Slides, Figma, Google Keep, Adobe Illustrator
+
+Things we learned:
+Project Management: Understanding how to plan, organize, and manage a project, including time management and meeting deadlines.
+Teamwork Skills: Learning how to collaborate effectively with others and how to contribute positively.
+User Experience (UX) Design: Understanding how to design a user-friendly interface that is intuitive and effective for users. 
+This includes learning about layout, color schemes, and interaction design.
